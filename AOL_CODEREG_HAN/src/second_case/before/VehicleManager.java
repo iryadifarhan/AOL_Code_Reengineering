@@ -23,7 +23,7 @@ public class VehicleManager {
         vehicles.add(vehicle);
     }
 
-	// start mark for 'Leaky Encapsulation' smell
+    // start mark for 'Leaky Encapsulation' smell
     public List<Vehicle> getAllVehicles() {
         return vehicles;
     }
