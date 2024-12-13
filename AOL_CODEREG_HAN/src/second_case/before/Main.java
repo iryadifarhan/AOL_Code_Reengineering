@@ -23,7 +23,7 @@ public class Main {
         VehicleManager vehicleManager = new VehicleManager();
 
         while (true) {
-        	// start mark for 'Duplicate Code' smell
+            // start mark for 'Duplicate Code' smell
             System.out.println("Vehicle Management System");
             System.out.println("1. Add Vehicle");
             System.out.println("2. View Vehicles");
@@ -36,7 +36,7 @@ public class Main {
 
             switch (choice) {
                 case 1:
-                	// start mark for 'Duplicate Code' and 'Incomplete Abstraction' smell
+           	    // start mark for 'Duplicate Code' and 'Incomplete Abstraction' smell
                     System.out.print("Enter make: ");
                     String make = scanner.nextLine();
                     System.out.print("Enter model: ");
