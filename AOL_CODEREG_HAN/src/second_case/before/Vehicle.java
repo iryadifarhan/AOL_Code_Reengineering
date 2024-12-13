@@ -14,7 +14,7 @@ package second_case.before;
 */
 
 public class Vehicle {
-	// start mark for 'Data Clumps' and 'Missing Abstraction' smell
+    // start mark for 'Data Clumps' and 'Missing Abstraction' smell
     private String make;
     private String model;
     // start mark for 'Data Clumps' and 'Missing Abstraction' smell
