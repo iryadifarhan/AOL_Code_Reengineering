@@ -11,7 +11,7 @@ package second_case.before;
 	- Dispensables: Duplicate Code
 	
 	-> Girish
-	- Abstraction: Incomplete Abstraction, Leaky Abstraction
+	- Abstraction: Incomplete Abstraction
 */
 
 import java.util.Scanner;
